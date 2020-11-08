@@ -1,0 +1,18 @@
+html {
+  background-color: black;
+}
+body {
+  background-image: url(skyline.jpeg);
+  background-size: cover;
+}
+
+section.what {
+  background-color: rgba(70, 70, 70, .7);
+  border-radius: 5px;
+  padding: 10px;
+  border: solid 1px white;
+}
+
+ul {
+  list-style-type: "🌱 ";
+}
