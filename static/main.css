@@ -6,11 +6,20 @@ body {
   background-size: cover;
 }
 
-section.what {
+section {
   background-color: rgba(70, 70, 70, .7);
   border-radius: 5px;
   padding: 10px;
   border: solid 1px white;
+}
+
+div.card-body {
+  background-color: rgba(70, 70, 70, .7);
+}
+
+section#who div.card {
+  width: 15em;
+  display: inline-flex;
 }
 
 ul {
